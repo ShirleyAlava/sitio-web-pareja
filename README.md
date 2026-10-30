@@ -55,3 +55,5 @@ Flujo: `feature-*` → `desarrollo` → `pruebas` → `main`.
 ## Protección de la rama main
 
 Se configuró una regla en GitHub (Settings → Branches) que exige Pull Request con al menos una aprobación antes de integrar cambios en `main`, bloqueando los push directos.
+
+Prueba de proteccion.
